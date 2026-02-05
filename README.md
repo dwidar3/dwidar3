@@ -18,9 +18,11 @@ Skilled in authentication, role-based access control, databases, and real-world 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" />
 
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodejs.svg" width="32" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/express.svg" width="32" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mongodb.svg" width="32" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="32" />
+
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" />

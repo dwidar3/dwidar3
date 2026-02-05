@@ -1,68 +1,152 @@
 # Hi there, I'm Ahmed Abdelaziz 👋  
 
-## I'm a Backend Developer | API Builder | Problem Solver 🚀
+## Backend Developer | Node.js | API Engineer 🚀  
+📍 Cairo, Egypt
 
-- 👨‍💻 Backend Developer specialized in **Node.js & Express**
-- 🗄️ Experienced with **MongoDB & Mongoose**
-- 🔐 Strong background in **Authentication & Authorization (JWT, Roles)**
-- 🌍 Worked on **Geolocation & Geospatial Logic** (Check-in / Attendance Systems)
-- 🧠 Always learning and improving my system design skills
-- 🥅 2025 Goals: Build more real-world products & open-source projects
-- ⚡ Fun fact: I enjoy turning complex logic into clean, simple APIs
+Backend Developer with strong experience in building **secure, scalable RESTful APIs** using **Node.js & Express**.  
+Skilled in authentication, role-based access control, databases, and real-world backend systems. Passionate about clean code, system design, and continuous learning.
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/>
 </p>
 
 ---
 
-### 📦 Backend Skills
+## ⚙️ Technical Skills
 
+### Backend Development
+- Node.js, Express.js, Nest.js
 - RESTful API Design
 - MVC Architecture
-- Authentication & Authorization (JWT, bcrypt)
-- Role-Based Access Control (Admin / User / Supervisor)
-- File Uploads (Multer)
-- Data Validation (express-validator)
-- MongoDB Indexing & Performance
-- Geospatial Queries (Location-based systems)
+- Middleware & Error Handling
+- Clean Code & Best Practices
+
+### Authentication & Security
+- JWT Authentication
+- OAuth (Basics)
+- Role-Based Access Control (RBAC)
+- Password Hashing (bcrypt)
+- API Security Best Practices
+
+### Databases
+- MongoDB & Mongoose
+- PostgreSQL
+- MySQL
+- Schema Design & Validation
+- Indexing & Performance
+
+### Advanced Concepts
+- Geospatial Queries (GeoJSON, $near, $geoWithin)
+- GraphQL
+- WebSocket
+- ORM / ODM
+- OOP Principles
+
+### Tools & DevOps
+- Docker
+- Git & GitHub
+- Postman
+- Swagger (API Documentation)
+- Deployment (Vercel, Render, Heroku)
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Projects
 
-#### 📍 LocationCheckin
-Employee attendance system using geofencing  
-**Tech:** Node.js, Express, MongoDB, GeoJSON  
-- Check-in/out based on real location
-- Organization & employee management
-- Secure authentication system
+### 🏥 CoClinic Platform (Graduation Project – A+ ⭐ Top 5)
+Healthcare management platform  
 
-#### 🏪 Store API
-Complete backend for an e-commerce system  
+🔗 **Repo:** https://github.com/dwidar3/co-clinic-graduation-project  
+🌍 **Live:** https://co-clinic-co.vercel.app/
+
 **Tech:** Node.js, Express, MongoDB  
-- Product CRUD
-- User roles & permissions
-- Image handling & validation
+**Features:**
+- Clinic, Doctor, Patient & Appointment Management
+- JWT Authentication & Role-based Access (Admin / Doctor / Patient)
+- Medical Records CRUD
+- Secure RESTful APIs
+- Validation, Middleware & Error Handling
 
 ---
 
-### 📊 GitHub Stats
+### 🍽️ Restaurant App
+Backend system for restaurant management  
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+🔗 **Repo:** https://github.com/dwidar3/restaurant-app  
+
+**Features:**
+- Menu, Orders & Customers APIs
+- Authentication & Roles (Admin / Staff / Customer)
+- CRUD Operations
+- Image Uploads (Multer / URLs)
+- MongoDB with Mongoose Validation
 
 ---
 
-### 🤝 Connect with me
+### 🚗 Car Store
+Backend system for car store services  
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+🔗 **Repo:** https://github.com/dwidar3/car-store  
+
+**Features:**
+- Cars, Categories, Orders & Users APIs
+- Authentication & Role-based Access
+- Admin / Supervisor / Customer Roles
+- MongoDB Schema Design
+
+---
+
+### 📍 Location Check-in System (Freelance)
+Employee attendance using geolocation  
+
+🔗 **Repo:** https://github.com/dwidar3/location_check  
+
+**Features:**
+- Location-based Check-in / Check-out
+- MongoDB Geospatial Queries
+- JWT Authentication
+- Role-based Access Control
+- RESTful Architecture
+
+---
+
+## 🎓 Certifications & Training
+
+- **Node.js – ITI (2024)**
+- **Back-End with Node.js – Route Academy (2023)**
+- **Back-End with Node.js – Mahara Tech (2025)**
+- **Web Development – Russian Cultural Center (2022)**
+
+---
+
+## 🌍 Languages
+- Arabic: Native  
+- English: Fluent  
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=dwidar3&show_icons=true&theme=tokyonight" />
+
+---
+
+## 🤝 Connect With Me
+- 💻 GitHub: https://github.com/dwidar3  
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-khir-eldin-b93416339  
+- 📧 Email: broahmed04@gmail.com

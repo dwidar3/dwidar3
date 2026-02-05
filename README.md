@@ -19,7 +19,7 @@ Skilled in authentication, role-based access control, databases, and real-world 
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/express.svg" width="32" style="filter: invert(1);" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/express.svg" width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="32" />
 
   <!-- Databases -->

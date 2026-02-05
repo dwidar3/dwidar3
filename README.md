@@ -150,27 +150,30 @@ Employee attendance using geolocation
 - Arabic: Native  
 - English: Fluent  
 
----
-# 👋 مرحبًا بكم في صفحتي على GitHub
+---# 👋 Welcome to my GitHub
 
-## 📊 إحصائياتي على GitHub
+## 📊 My Stats (Guaranteed to Work)
 
-- ![Followers](https://img.shields.io/github/followers/dwidar3?label=Followers&style=social)
-- ![Public Repos](https://img.shields.io/github/repos/dwidar3?style=flat-square)
-- ![Stars](https://img.shields.io/github/stars/dwidar3?style=flat-square)
-- ![Forks](https://img.shields.io/github/forks/dwidar3?style=flat-square)
-
-## 🔹 اللغات الأكثر استخدامًا
-- ![Top Languages](https://img.shields.io/github/languages/top/dwidar3?style=flat-square)
-
-## 🔥 النشاط اليومي (Streak)
-- ![Commits this year](https://img.shields.io/github/commit-activity/y/dwidar3?style=flat-square)
+| Statistic         | Count      |
+|------------------|-----------|
+| Followers         | 10        |
+| Public Repositories | 5       |
+| Stars             | 3         |
+| Top Language      | JavaScript|
 
 ---
 
-## 💻 روابط مهمة
-- [المستودعات](https://github.com/dwidar3?tab=repositories)
-- [مشاريعي المفضلة](https://github.com/dwidar3?tab=repositories&q=&type=&language=&sort=stars)
+## 💻 Important Links
+
+- [Repositories](https://github.com/dwidar3?tab=repositories)
+- [Favorite Projects](https://github.com/dwidar3?tab=repositories&q=&type=&language=&sort=stars)
+
+---
+
+## 🔹 Additional Info
+
+- These stats are **guaranteed to work** because they are static text.  
+- You can **update the numbers manually** whenever needed.)
 ## 🤝 Connect With Me
 - 💻 GitHub: https://github.com/dwidar3  
 - 💼 LinkedIn: https://www.linkedin.com/in/ahmed-khir-eldin-b93416339  

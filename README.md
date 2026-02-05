@@ -152,9 +152,17 @@ Employee attendance using geolocation
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=dwidar3&show_icons=true" />
+# 👋 مرحبًا بكم في صفحتي على GitHub
 
+## 📊 إحصائياتي على GitHub
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dwidar3&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwidar3&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+## 🔥 GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dwidar3&theme=tokyonight" />
 ---
 
 ## 🤝 Connect With Me
